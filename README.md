@@ -1,7 +1,6 @@
 # ChatGPT Conversations to Obsidian Markdown Exporter
 
-Easily convert your exported [ChatGPT](https://chat.openai.com/) conversations (from `conversations.json`) into clean, well-formatted Markdown notes ready for [Obsidian](https://obsidian.md/), Notion, or any Markdown-based workflow.
-
+Easily convert your exported [ChatGPT](https://chat.openai.com/) conversations (from `conversations.json`) into clean, well-formatted Markdown notes.
 ---
 
 ## Features
@@ -20,8 +19,8 @@ Easily convert your exported [ChatGPT](https://chat.openai.com/) conversations (
 1. **Clone or Download** this repo:
 
     ```sh
-    git clone https://github.com/YOURUSERNAME/chatgpt-obsidian-exporter.git
-    cd chatgpt-obsidian-exporter
+    git clone https://github.com/csrobb/ChatGPTtoMD.git
+    cd ChatGPTtoMD
     ```
 
 2. **Place your ChatGPT `conversations.json` export** in the same directory.  
