@@ -29,4 +29,4 @@ Easily convert your exported [ChatGPT](https://chat.openai.com/) conversations (
 ## Usage
 
 ```sh
-python chatgpt_json_to_obsidian_md.py
+python chatgpt_json_to_md.py
